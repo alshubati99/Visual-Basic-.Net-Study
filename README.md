@@ -1,4 +1,4 @@
-# Visual-Basic-.Net-Study
+# Visual Basic .Net Study
 ### This is to Study for Visual Programming Course CMSE415 at EMU <br> 
 ---
 

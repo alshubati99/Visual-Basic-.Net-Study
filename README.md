@@ -8,7 +8,7 @@ Quiz 1 material material was about creating a program that adds two numbers, com
 
 - **Quiz 2 Applications Desing:** <br>
 ![Quiz 2 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Quiz2.png) <br>
-Quiz 2 study conatained of the shown ubove small programs. <br>
+Quiz 2 study contained of the shown ubove small programs. <br>
 
 - **Midterm 0 Applications Desing:** <br>
 ![Midterm 0 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Midterm0.png) <br>

@@ -1,0 +1,26 @@
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\bin\Debug\Study for Midterm 1.exe.config
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\bin\Debug\Study for Midterm 1.exe
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\bin\Debug\Study for Midterm 1.pdb
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\bin\Debug\Study for Midterm 1.xml
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.vbproj.AssemblyReference.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study_for_Midterm_1.Form1.resources
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study_for_Midterm_1.Resources.resources
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.vbproj.GenerateResource.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.vbproj.CoreCompileInputs.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.exe
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.xml
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Study for Midterm 1\obj\Debug\Study for Midterm 1.pdb
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\bin\Debug\Study for Midterm 1.exe.config
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\bin\Debug\Study for Midterm 1.exe
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\bin\Debug\Study for Midterm 1.pdb
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\bin\Debug\Study for Midterm 1.xml
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.vbproj.AssemblyReference.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study_for_Midterm_1.Form1.resources
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study_for_Midterm_1.Resources.resources
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.vbproj.GenerateResource.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.vbproj.CoreCompileInputs.cache
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.exe
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.xml
+C:\Users\DC\Desktop\Fall 2023\Virtual Programming\Visual Basic .Net Study\Midterm 1 Study\obj\Debug\Study for Midterm 1.pdb

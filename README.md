@@ -21,3 +21,5 @@ This part is mostly about arrays implementation in visual basics .net. <br>
 - **Midterm 2 Applications Desing:** <br>
 ![Midterm 2 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Midterm2.png) <br>
 This part is mostly about methods in vb .net <br> 
+
+---

@@ -28,13 +28,13 @@ Programs in this screen are:
 ![Midterm 0 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Midterm0.png) <br>
 This is the screen for some applications done <br>
 Programs in this screen are:
-- Account App,
-- Time set App,
-- Array Display,
-- Sum of Array Elements,
-- Student Poll,
-- Flag Quiz,
-- Dice Rolling App.
+  - Account App,
+  - Time set App,
+  - Array Display,
+  - Sum of Array Elements,
+  - Student Poll,
+  - Flag Quiz,
+  - Dice Rolling App.
 
   
 - **Midterm 1 Applications Desing:** <br>

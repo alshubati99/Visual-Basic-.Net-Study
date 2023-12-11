@@ -59,5 +59,18 @@ Programs in this screen are:
   - Value/Reference Passing,
   - Random Number Generator,
   - Method Overloading.
+ 
+- **Quiz 3 Applications design:** <br>
+![Quiz 3 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Quiz3.png) <br>
+This part is about dealing with strings and LINQ in Visual Basics .Net <br>
+Programs in The screen are:
+  - Checking Character Type.
+  - Comparing Two strings.
+  - Declaring Strings
+  - Preprocessing Text
+  - Regular Expressions
+  - Searching Strings by Index
+  - LINQs (Ordering and Employee Class)
+
     
 ---

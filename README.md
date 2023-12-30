@@ -60,7 +60,7 @@ Programs in this screen are:
   - Random Number Generator,
   - Method Overloading.
  
-- **Quiz 3 Applications design:** <br>
+- **Quiz 3 Applications Design:** <br>
 ![Quiz 3 Applications](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Quiz3.png) <br>
 This part is about dealing with strings and LINQ in Visual Basics .Net <br>
 Programs in The screen are:
@@ -72,5 +72,8 @@ Programs in The screen are:
   - Searching Strings by Index
   - LINQs (Ordering and Employee Class)
 
+**Quiz 4 Application Design:** <br>
+![Quriz 4 Application](https://github.com/alshubati99/Visual-Basic-.Net-Study/blob/main/Quiz4.png)<br>
+This is all about connecting to database, search, delete, insert operations are implemented. 
     
 ---
